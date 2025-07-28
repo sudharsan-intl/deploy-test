@@ -2,7 +2,7 @@ import React from 'react';
 
 function App() {
   return (
-    <div className='text-white'>
+    <div className='text-black'>
       <h1>Frontend Developer Portfolio</h1>
     </div>
   );
